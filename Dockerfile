@@ -24,3 +24,4 @@ COPY ./ /home/jovyan/work/
 ## jupyter password
 ## http://localhost:10000/?token=TOKEN_CODE
 ## jupyter server list
+## jupyter nbconvert --execute --clear-output 
